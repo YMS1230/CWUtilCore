@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CWUtilCore'
-  s.version          = '1.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'Common UIKit.'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'UI组件'
 
-  s.homepage         = 'https://github.com/cocoadogs/CWUtilCore'
+  s.homepage         = 'git@github.com:YMS1230/CWUtilCore'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'cuwang' => 'cuwang@163.com' }
