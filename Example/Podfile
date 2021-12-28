@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CWUtilCore_Example' do
+  pod 'CWUtilCore', :path => '../'
+
+  target 'CWUtilCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
